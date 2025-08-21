@@ -36,8 +36,8 @@ It features a graphical user interface (GUI), real-time hardware communication, 
 
 To keep this repo modular and lightweight, supporting components are maintained separately:
 
-* [**SoftRobotics-Firmware**](https://github.com/luqmanroslan/SoftRobotics-Firmware) – ESP32 firmware for actuator and sensor control.
-* [**SoftRobotics-MLmodels**](https://github.com/luqmanroslan/SoftRobotics-MLmodels) – Training scripts and pre-trained predictive kinematic models.
+* [**SoftRobotics-Firmware**](https://github.com/luqmanroslan/soft-robotics-esp32-firmware) – ESP32 firmware for actuator and sensor control.
+* [**SoftRobotics-MLmodels**](https://github.com/luqmanroslan/ml-sensor-fusion) – Training scripts and pre-trained predictive kinematic models.
 
 ---
 
