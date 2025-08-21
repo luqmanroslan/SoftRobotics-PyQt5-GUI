@@ -1,0 +1,7 @@
+PyQt5
+numpy
+scipy
+tensorflow
+scikit-learn
+pyserial
+pygame 

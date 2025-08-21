@@ -1,0 +1,6 @@
+# Ignore large models and binaries
+MLmodels/*.joblib
+NEW ML Model/*.joblib
+*.keras
+*.h5
+*.mp3
